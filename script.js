@@ -1,5 +1,5 @@
 let babiesArray = [
-  { img: "/Eitan.jpeg", player: "Eiten Levit", points: 999 },
+  { img: "/Eitan.jpeg", player: "Eitan Levit", points: 999 },
   { img: "/bunny.jpg", player: "Baby Bunny", points: 300 },
   { img: "/chicken.jpg", player: "Baby Chicken", points: 298 },
   { img: "/boss.jpg", player: "Baby Boss", points: 292 },
